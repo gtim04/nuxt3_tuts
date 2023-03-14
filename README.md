@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -41,7 +40,3 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-=======
-# nuxt3_tuts
-firstnuxt3 app
->>>>>>> ed1ed56d8628c54d21f3abe4333f2d0068e4a8cc
